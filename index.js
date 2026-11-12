@@ -4,8 +4,8 @@ import file2 from './library/games.json';
 export default {
   async fetch(request) {
     const combinedData = {
-      firstFile: file1,
-      secondFile: file2
+      ...file1,
+      ...file2
     };
 
     return new Response(JSON.stringify(combinedData, null, 2), {
@@ -16,4 +16,3 @@ export default {
     });
   }
 };
-
