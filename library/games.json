@@ -1,0 +1,22 @@
+{
+ "games": [
+  {
+   "title": "Tekken 8 Mod NewGen",
+   "categories": [
+    "fighting"
+   ],
+   "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tekken_8_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+   "size": "CHD",
+   "download": "https://sto.romsfast.com/Mods/PSP/Tekken%208%20Mod%20NewGen.chd?e=1794511747&s=diQz-TCWEWuHksLy0YkwvnNC33YC9oSQIBUe9yaDuSg"
+  },
+  {
+   "title": "Toy Story 3 (USA)",
+   "categories": [
+    "adventure"
+   ],
+   "cover": "https://c.scdn.gr/images/sku_main_images/000267/267112/xlarge_20200708141321_toy_story_3_psp.jpeg",
+   "size": "ISO",
+   "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+  }
+ ]
+}
