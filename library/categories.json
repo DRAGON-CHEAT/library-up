@@ -6,7 +6,7 @@
     },
     {
       "id": "action",
-      "name": "Action"
+      "name": "Action:rpg"
     },
     {
       "id": "adventure",
@@ -35,6 +35,10 @@
     {
       "id": "arcade",
       "name": "Arcade"
+    },
+    {
+      "id": "platformer",
+      "name": "Platformer"
     },
     {
       "id": "classics",
