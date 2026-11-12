@@ -523,12 +523,12 @@
 "size": "ISO",
 "download": "github.com"
 },
-  {
+ {
     "title": "LEGO Star Wars II: The Original Trilogy",
     "categories": ["adventure"],
     "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20(Europe)%20(En,Fr,De,Es,It,Da)%20(v1.02).png",
-    "size": "",
-    "download": ""
+    "size": "ISO",
+    "download": "github.com"
   },
   {
     "title": "Castlevania: The Dracula X Chronicles",
