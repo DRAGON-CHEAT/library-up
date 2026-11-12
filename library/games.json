@@ -303,6 +303,305 @@
       "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Mortal%20Kombat%20-%20Unchained%20%28USA%29.png",
       "size": "ISO",
       "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
-    }
-  ]
-}
+    },
+{
+"title": "Grand Theft Auto: Liberty City Stories",
+"categories": ["action"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Metal Gear Solid: Peace Walker",
+"categories": ["action", "shooter"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Monster Hunter Freedom Unite",
+"categories": ["action", "adventure"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Grand Theft Auto: Chinatown Wars",
+"categories": ["action"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Prince of Persia: Revelations",
+"categories": ["action", "adventure", "platformer"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Need for Speed: Most Wanted 5-1-0",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Need for Speed: Underground Rivals",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Burnout Legends",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Midnight Club 3: DUB Edition",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Wipeout Pure",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Wipeout Pulse",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Ridge Racer",
+"categories": ["racing", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Ridge Racer 2",
+"categories": ["racing", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "MotorStorm: Arctic Edge",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "OutRun 2006: Coast 2 Coast",
+"categories": ["racing", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "FlatOut: Head On",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Test Drive Unlimited",
+"categories": ["racing"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tekken: Dark Resurrection",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tekken 6",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Soulcalibur: Broken Destiny",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Street Fighter Alpha 3 MAX",
+"categories": ["fighting", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Dragon Ball Z: Tenkaichi Tag Team",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Dragon Ball Z: Shin Budokai - Another Road",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Naruto Shippuden: Ultimate Ninja Impact",
+"categories": ["fighting", "action"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Dissidia 012: Duodecim Final Fantasy",
+"categories": ["fighting", "action"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Guilty Gear XX Accent Core Plus",
+"categories": ["fighting", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "BlazBlue: Calamity Trigger Portable",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Def Jam: Fight for NY - The Takeover",
+"categories": ["fighting"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Darkstalkers Chronicle: The Chaos Tower",
+"categories": ["fighting", "arcade"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "WWE SmackDown vs. Raw 2011",
+"categories": ["fighting", "sport"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "The King of Fighters Collection: The Orochi Saga",
+"categories": ["fighting", "arcade", "classics"],
+"cover": "example.com",
+"size": "ISO",
+"download": "github.com"
+},
+  {"title":"LEGO Star Wars II: The Original Trilogy","categories":["adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+
+  {"title":"Castlevania: The Dracula X Chronicles","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Sega Genesis Collection","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Capcom Classics Collection Reloaded","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Namco Museum Battle Collection","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"Taito Legends Power-Up","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Gradius Collection","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Metal Slug Anthology","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Parodius Portable","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Ultimate Ghosts 'n Goblins","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Gitaroo Man Lives!","categories":["classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Space Invaders Extreme","categories":["classics","arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+
+  {"title":"LocoRoco","categories":["platformer"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"LocoRoco 2","categories":["platformer"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Ratchet & Clank: Size Matters","categories":["platformer","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"LittleBigPlanet","categories":["platformer"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Ape Escape: On the Loose","categories":["platformer","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Mega Man: Powered Up","categories":["platformer","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Crush","categories":["platformer","arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Prinny: Can I Really Be the Hero?","categories":["platformer","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Prinny 2: Dawn of Operation Panties, Dood!","categories":["platformer","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"The Simpsons Game","categories":["platformer","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"SpongeBob SquarePants: The Yellow Avenger","categories":["platformer","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+
+  {"title":"SOCOM: U.S. Navy SEALs Fireteam Bravo","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"SOCOM: U.S. Navy SEALs Fireteam Bravo 2","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Resistance: Retribution","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Star Wars Battlefront: Renegade Squadron","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Star Wars Battlefront: Elite Squadron","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"Tom Clancy's Ghost Recon: Predator","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Tom Clancy's Rainbow Six: Vegas","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Brothers in Arms: D-Day","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Coded Arms","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Coded Arms: Contagion","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Star Wars Battlefront II","categories":["shooter","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+ {"title":"Lumines II","categories":["arcade","classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Echochrome","categories":["arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Every Extend Extra","categories":["arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Exit","categories":["arcade","platformer"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Pinball Fantasies","categories":["arcade","classics"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Tetris","categories":["arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+
+  {"title":"Virtua Tennis: World Tour","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Virtua Tennis 3","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"FIFA Soccer 09","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"FIFA Soccer 10","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Pro Evolution Soccer 2008","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"Winning Eleven: Pro Evolution Soccer 2007","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Hot Shots Golf: Open Tee","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Hot Shots Golf: Open Tee 2","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Hot Shots Tennis: Get a Grip","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"MLB 06: The Show","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"MLB 08: The Show","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"MLB 10: The Show","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"SSX On Tour","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Tony Hawk's Underground 2 Remix","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Tiger Woods PGA Tour 06","categories":["sport"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+
+  {"title":"Silent Hill: Origins","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Silent Hill: Shattered Memories","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Corpse Party","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"Corpse Party: Book of Shadows","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Corpse Party: The Anthology - Sachiko's Game of Love Hysteric Birthday 2U","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Obscure: The Aftermath","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Dead Head Fred","categories":["horror","adventure","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"The 3rd Birthday","categories":["horror","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Infected","categories":["horror","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  
+  {"title":"Hysteria Project","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Hysteria Project 2","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Undead Knights","categories":["horror","action"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Yarudora Portable: Blood The Last Vampire","categories":["horror","adventure"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Dracula: Undead Awakening","categories":["horror","arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""},
+  {"title":"Zombie Tycoon","categories":["horror","arcade"],"cover":"https://placehold.co/300x420?text=PSP+Game","size":"","download":""}
+] }
+
