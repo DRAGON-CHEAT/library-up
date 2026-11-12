@@ -1,22 +1,308 @@
 {
- "games": [
-  {
-   "title": "Tekken 8 Mod NewGen",
-   "categories": [
-    "fighting"
-   ],
-   "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tekken_8_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-   "size": "CHD",
-   "download": "https://sto.romsfast.com/Mods/PSP/Tekken%208%20Mod%20NewGen.chd?e=1794511747&s=diQz-TCWEWuHksLy0YkwvnNC33YC9oSQIBUe9yaDuSg"
-  },
-  {
-   "title": "Toy Story 3 (USA)",
-   "categories": [
-    "adventure"
-   ],
-   "cover": "https://c.scdn.gr/images/sku_main_images/000267/267112/xlarge_20200708141321_toy_story_3_psp.jpeg",
-   "size": "ISO",
-   "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
-  }
- ]
+  "games": [
+    {
+      "title": "God of War: Ghost of Sparta",
+      "categories": [
+        "action",
+        "adventure"
+      ],
+      "cover": "https://romsfun.com/wp-content/uploads/2026/10/God-of-War-Ghost-of-Sparta.png",
+      "size": "2 MB",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Tekken 8 Mod NewGen",
+      "categories": [
+        "fighting"
+      ],
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tekken_8_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "size": "CHD",
+      "download": "https://sto.romsfast.com/Mods/PSP/Tekken%208%20Mod%20NewGen.chd?e=1794511747&s=diQz-TCWEWuHksLy0YkwvnNC33YC9oSQIBUe9yaDuSg"
+    },
+    {
+      "title": "Toy Story 3 (USA)",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://c.scdn.gr/images/sku_main_images/000267/267112/xlarge_20200708141321_toy_story_3_psp.jpeg",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "God of War: Chains of Olympus",
+      "categories": [
+        "action",
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/God%20of%20War%20-%20Chains%20of%20Olympus%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "GTA: Vice City Stories",
+      "categories": [
+        "action"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "NFS Carbon: Own the City",
+      "categories": [
+        "racing"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Need%20for%20Speed%20-%20Carbon%20-%20Own%20the%20City%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Burnout Dominator",
+      "categories": [
+        "racing"
+      ],
+      "cover": "https://cdn.mobygames.com/covers/5684181-burnout-dominator-playstation-2-manual.jpg",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Gran Turismo",
+      "categories": [
+        "racing"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Gran%20Turismo%20%28USA%29%20%28En%2CFr%2CEs%29%20%28v1.00%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Midnight Club: L.A. Remix",
+      "categories": [
+        "racing"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Midnight%20Club%20-%20L.A.%20Remix%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Dragon Ball Z: Shin Budokai",
+      "categories": [
+        "fighting"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Dragon%20Ball%20Z%20-%20Shin%20Budokai%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Naruto: Ultimate Ninja Heroes",
+      "categories": [
+        "fighting"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Naruto%20-%20Ultimate%20Ninja%20Heroes%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Monster Hunter Freedom",
+      "categories": [
+        "action",
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Monster%20Hunter%20Freedom%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Assassin's Creed: Bloodlines",
+      "categories": [
+        "action",
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Assassin%27s%20Creed%20-%20Bloodlines%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Crisis Core: Final Fantasy VII",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Crisis%20Core%20-%20Final%20Fantasy%20VII%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Kingdom Hearts: Birth by Sleep",
+      "categories": [
+        "action",
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Dissidia Final Fantasy",
+      "categories": [
+        "fighting",
+        "action"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Dissidia%20-%20Final%20Fantasy%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Metal Gear Ac!d",
+      "categories": [
+        "classics"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Metal%20Gear%20Ac%21d%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Lumines",
+      "categories": [
+        "classics",
+        "arcade"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Lumines%20%28USA%29%20%28v1.01%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Daxter",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Daxter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Patapon",
+      "categories": [
+        "classics",
+        "adventure",
+        "arcade"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Patapon%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Killzone: Liberation",
+      "categories": [
+        "action",
+        "shooter"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Killzone%20-%20Liberation%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPl%2CRu%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Dante's Inferno",
+      "categories": [
+        "action",
+        "horror"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Dante%27s%20Inferno%20%28USA%29%20%28v1.01%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Tomb Raider: Anniversary",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Lara%20Croft%20Tomb%20Raider%20-%20Anniversary%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Medal of Honor: Heroes",
+      "categories": [
+        "action",
+        "shooter"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Medal%20of%20Honor%20-%20Heroes%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "LEGO Batman",
+      "categories": [
+        "adventure",
+        "action"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LEGO%20Batman%20-%20The%20Video%20Game%20%28USA%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Ben 10: Alien Force",
+      "categories": [
+        "action"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Ben%2010%20-%20Alien%20Force%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Persona 3 Portable",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Persona%203%20Portable%20%28Japan%29.png",
+      "size": "~",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Syphon Filter: Dark Mirror",
+      "categories": [
+        "action",
+        "shooter"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Syphon%20Filter%20-%20Dark%20Mirror%20%28USA%29.png",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Final Fantasy Tactics: The War of the Lions",
+      "categories": [
+        "adventure"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Final%20Fantasy%20Tactics%20-%20The%20War%20of%20the%20Lions%20%28USA%29.png",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Pursuit Force",
+      "categories": [
+        "action",
+        "racing"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Pursuit%20Force%20%28USA%29.png",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Syphon Filter: Logan's Shadow",
+      "categories": [
+        "action",
+        "shooter"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Syphon%20Filter%20-%20Logan%27s%20Shadow%20%28USA%29.png",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    },
+    {
+      "title": "Mortal Kombat: Unchained",
+      "categories": [
+        "fighting"
+      ],
+      "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Mortal%20Kombat%20-%20Unchained%20%28USA%29.png",
+      "size": "ISO",
+      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+    }
+  ]
 }
