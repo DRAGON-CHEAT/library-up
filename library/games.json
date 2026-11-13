@@ -8,7 +8,7 @@
       ],
       "cover": "https://romsfun.com/wp-content/uploads/2026/10/God-of-War-Ghost-of-Sparta.png",
       "size": "2 MB",
-      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+      "download": "https://github.com/DR"
     },
     {
       "title": "God of War: Chains of Olympus",
@@ -18,7 +18,7 @@
       ],
       "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/God%20of%20War%20-%20Chains%20of%20Olympus%20%28USA%29.png",
       "size": "~",
-      "download": "https://github.com/DRAGON-CHEAT/960/releases/download/1.6/Dead.to.Rights-Reckoning.iso"
+      "download": "https://github.com/DRAGON-CHEAT"
     },
     {
       "title": "Tekken 8 Mod NewGen",
@@ -27,10 +27,10 @@
       ],
       "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tekken_8_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
       "size": "CHD",
-      "download": "https://sto.romsfast.com/Mods/PSP/Tekken%208%20Mod%20NewGen.chd?e=1794511747&s=diQz-TCWEWuHksLy0YkwvnNC33YC9oSQIBUe9yaDuSg"
+      "download": "https://sto.romsfast.com/"
     },
     {
-      "title": "Toy Story 3 (USA)",
+      "title": "Toy Story 3",
       "categories": [
         "adventure"
       ],
@@ -515,7 +515,6 @@
 "size": "ISO",
 "download": "github.com"
 },
-
 {
 "title": "The King of Fighters Collection: The Orochi Saga",
 "categories": ["fighting", "arcade", "classics"],
@@ -523,534 +522,530 @@
 "size": "ISO",
 "download": "github.com"
 },
- {
-    "title": "LEGO Star Wars II: The Original Trilogy",
-    "categories": ["adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20(Europe)%20(En,Fr,De,Es,It,Da)%20(v1.02).png",
-    "size": "ISO",
-    "download": "github.com"
-  },
-  {
-    "title": "Castlevania: The Dracula X Chronicles",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20(Europe)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Sega Genesis Collection",
-    "categories": ["classics"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Sega-Genesis-Collection.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Capcom Classics Collection Reloaded",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Capcom%20Classics%20Collection%20Reloaded%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Namco Museum Battle Collection",
-    "categories": ["classics"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Namco-Museum-Battle-Collection.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Taito Legends Power-Up",
-    "categories": ["classics"],
-    "cover": "https://romsfun.com/wp-content/uploads/2019/09/Taito-Legends-Power-Up.jpg",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Gradius Collection",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Gradius%20Collection%20(Europe)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Metal Slug Anthology",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Metal%20Slug%20Anthology%20(Europe)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Parodius Portable",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Parodius%20Portable%20(Japan).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Ultimate Ghosts 'n Goblins",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Ultimate%20Ghosts%20'n%20Goblins%20(Europe)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Gitaroo Man Lives!",
-    "categories": ["classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Gitaroo%20Man%20Lives!%20(Europe)%20(En,Fr,De)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Space Invaders Extreme",
-    "categories": ["classics", "arcade"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Space%20Invaders%20-%20Galaxy%20Beat%20(Japan)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "LocoRoco",
-    "categories": ["platformer"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LocoRoco%20(Europe)%20(En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "LocoRoco 2",
-    "categories": ["platformer"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LocoRoco%202%20(USA)%20(En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Ru).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Ratchet & Clank: Size Matters",
-    "categories": ["platformer", "action"],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBoRjCkAJyyLdDKkJiayUkEq1m-JqA9fgZH9yNa2I-eg&s=10",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "LittleBigPlanet",
-    "categories": ["platformer"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LittleBigPlanet%20(Europe)%20(En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Ape Escape: On the Loose",
-    "categories": ["platformer", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Ape%20Escape%20-%20On%20the%20Loose%20(USA)%20(v1.03).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Mega Man: Powered Up",
-    "categories": ["platformer", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Mega%20Man%20-%20Powered%20Up%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Crush",
-    "categories": ["platformer", "arcade"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Crush.jpg",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Prinny: Can I Really Be the Hero?",
-    "categories": ["platformer", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Prinny%20-%20Can%20I%20Really%20Be%20the%20Hero%20(Europe)%20(En,Fr).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Prinny 2: Dawn of Operation Panties, Dood!",
-    "categories": ["platformer", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Prinny%202%20-%20Dawn%20of%20Operation%20Panties,%20Dood!%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "The Simpsons Game",
-    "categories": ["platformer", "adventure"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/The-Simpsons-Game.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "SpongeBob SquarePants: The Yellow Avenger",
-    "categories": ["platformer", "adventure"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Spongebob-Squarepants-The-Yellow-Avenger.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "SOCOM: U.S. Navy SEALs Fireteam Bravo",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/SOCOM%20-%20U.S.%20Navy%20SEALs%20-%20Fireteam%20Bravo%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "SOCOM: U.S. Navy SEALs Fireteam Bravo 2",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/SOCOM%20-%20U.S.%20Navy%20SEALs%20-%20Fireteam%20Bravo%202%20(Europe)%20(En,Fr,De,Es,It)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Resistance: Retribution",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Resistance%20-%20Retribution%20(Asia)%20(En,Ja,Fr,Es).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Star Wars Battlefront: Renegade Squadron",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Star Wars Battlefront: Elite Squadron",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Tom Clancy's Ghost Recon: Predator",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tom%20Clancy's%20Ghost%20Recon%20-%20Predator%20(USA)%20(En,Fr,Es).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Tom Clancy's Rainbow Six: Vegas",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tom%20Clancy's%20Rainbow%20Six%20-%20Vegas%20(USA)%20(En,Fr,Es)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Brothers in Arms: D-Day",
-    "categories": ["shooter", "action"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Brothers-in-Arms-D-Day.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Coded Arms",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Coded%20Arms%20-%20Contagion%20(Japan)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Coded Arms: Contagion",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Coded%20Arms%20-%20Contagion%20(Japan)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Star Wars Battlefront II",
-    "categories": ["shooter", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Lumines II",
-    "categories": ["arcade", "classics"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Lumines%20(USA)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Echochrome",
-    "categories": ["arcade"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Echochrome%20(Europe,%20Australia)%20(En,Fr,De,Es,It,Nl,Pt,Ru).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Every Extend Extra",
-    "categories": ["arcade"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Every%20Extend%20Extra%20(Japan)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Exit",
-    "categories": ["arcade", "platformer"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Exit%20(Europe)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Pinball Fantasies",
-    "categories": ["arcade", "classics"],
-    "cover": "https://romsfun.com/wp-content/uploads/2023/06/Pinball-Fantasies.jpg",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Tetris",
-    "categories": ["arcade"],
-    "cover": "Tetris",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Virtua Tennis: World Tour",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Virtua%20Tennis%20-%20World%20Tour%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Virtua Tennis 3",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Virtua%20Tennis%203%20(USA)%20(En,Ja,Fr,De,Es,It)%20(v1.02).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "FIFA Soccer 09",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/FIFA%2009%20-%20World%20Class%20Soccer%20(Japan).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "FIFA Soccer 10",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/FIFA%2010%20-%20World%20Class%20Soccer%20(Japan)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-    {
-    "title": "Pro Evolution Soccer 2008",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2008-psp-poster.jpg",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Pro Evolution Soccer 2006",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-6-psp-poster.jpg",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Winning Eleven: Pro Evolution Soccer 2007",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Winning%20Eleven%20-%20Pro%20Evolution%20Soccer%202007%20(USA)%20(En,Es)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-    {
-    "title": "Winning Eleven: Pro Evolution Soccer 2009",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2009-psp-poster.jpg",
-    "size": "",
-    "download": ""
-  },
-
-      {
-    "title": "Pro Evolution Soccer 2011",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2011-psp-poster.png",
-    "size": "",
-    "download": ""
-  },
-  
-    {
-    "title": "Pro Evolution Soccer 2013",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Pro%20Evolution%20Soccer%202013%20(Europe)%20(Fr,De).png",
-    "size": "",
-    "download": ""
-  },
-
-  {
-    "title": "Pro Evolution Soccer 2014",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/PES-2014-Pro-Evolution-Soccer.png",
-    "size": "",
-    "download": ""
-  },
-  
-  {
-    "title": "Hot Shots Golf: Open Tee",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Golf%20-%20Open%20Tee%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Hot Shots Golf: Open Tee 2",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Golf%20-%20Open%20Tee%202%20(USA)%20(v0.01)%20(Beta).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Hot Shots Tennis: Get a Grip",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Tennis%20-%20Get%20a%20Grip%20(USA)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "MLB 06: The Show",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "MLB 08: The Show",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "MLB 10: The Show",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "SSX On Tour",
-    "categories": ["sport"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/SSX-on-Tour-3.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Tony Hawk's Underground 2 Remix",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tony%20Hawk's%20Underground%202%20Remix%20(France)%20(v1.03).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Tiger Woods PGA Tour 06",
-    "categories": ["sport"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%20(Japan)%20(v1.03).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Silent Hill: Origins",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Silent%20Hill%20-%20Origins%20(USA)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Silent Hill: Shattered Memories",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Silent%20Hill%20-%20Shattered%20Memories%20(USA).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Corpse Party",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20Blood%20Covered%20-%20Repeated%20Fear%20(Japan)%20(v1.03).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Corpse Party: Book of Shadows",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20Book%20of%20Shadows%20(Japan).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Corpse Party: The Anthology - Sachiko's Game of Love Hysteric Birthday 2U",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20The%20Anthology%20-%20Sachiko%20no%20Renai%20Yuugi%20-%20Hysteric%20Birthday%202U%20(Japan)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Obscure: The Aftermath",
-    "categories": ["horror", "adventure"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Obscure-The-Aftermath.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Dead Head Fred",
-    "categories": ["horror", "adventure", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Dead%20Head%20Fred%20(Europe)%20(En,Fr,De,Es,It).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "The 3rd Birthday",
-    "categories": ["horror", "action"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/The-3rd-Birthday.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Infected",
-    "categories": ["horror", "action"],
-    "cover": "https://romsfun.com/wp-content/uploads/2026/10/Infected.png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Hysteria Project",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hysteria%20Project%20(Europe).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Hysteria Project 2",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hysteria%20Project%20(Europe).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Undead Knights",
-    "categories": ["horror", "action"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Undead%20Knights%20(Japan)%20(v1.01).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Yarudora Portable: Blood The Last Vampire",
-    "categories": ["horror", "adventure"],
-    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Yarudora%20Portable%20-%20Blood%20the%20Last%20Vampire%20(Asia).png",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Dracula: Undead Awakening",
-    "categories": ["horror", "arcade"],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKZWYfI6TW8EQAavhd_UDJ642qm9Oo8CJWa4Q4vWprg&s=10",
-    "size": "",
-    "download": ""
-  },
-  {
-    "title": "Zombie Tycoon",
-    "categories": ["horror", "arcade"],
-    "cover": "https://romsfun.com/wp-content/uploads/2023/06/Zombie-Tycoon.jpg",
-    "size": "",
-    "download": ""
-  }
+{
+"title": "LEGO Star Wars II: The Original Trilogy",
+"categories": ["adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20(Europe)%20(En,Fr,De,Es,It,Da)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Castlevania: The Dracula X Chronicles",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20(Europe)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Sega Genesis Collection",
+"categories": ["classics"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Sega-Genesis-Collection.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Capcom Classics Collection Reloaded",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Capcom%20Classics%20Collection%20Reloaded%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Namco Museum Battle Collection",
+"categories": ["classics"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Namco-Museum-Battle-Collection.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Taito Legends Power-Up",
+"categories": ["classics"],
+"cover": "https://romsfun.com/wp-content/uploads/2019/09/Taito-Legends-Power-Up.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Gradius Collection",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Gradius%20Collection%20(Europe)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Metal Slug Anthology",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Metal%20Slug%20Anthology%20(Europe)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Parodius Portable",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Parodius%20Portable%20(Japan).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Ultimate Ghosts 'n Goblins",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Ultimate%20Ghosts%20'n%20Goblins%20(Europe)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Gitaroo Man Lives!",
+"categories": ["classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Gitaroo%20Man%20Lives!%20(Europe)%20(En,Fr,De)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Space Invaders Extreme",
+"categories": ["classics", "arcade"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Space%20Invaders%20-%20Galaxy%20Beat%20(Japan)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "LocoRoco",
+"categories": ["platformer"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LocoRoco%20(Europe)%20(En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "LocoRoco 2",
+"categories": ["platformer"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LocoRoco%202%20(USA)%20(En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Ru).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Ratchet & Clank: Size Matters",
+"categories": ["platformer", "action"],
+"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBoRjCkAJyyLdDKkJiayUkEq1m-JqA9fgZH9yNa2I-eg&s=10",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "LittleBigPlanet",
+"categories": ["platformer"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/LittleBigPlanet%20(Europe)%20(En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Ape Escape: On the Loose",
+"categories": ["platformer", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Ape%20Escape%20-%20On%20the%20Loose%20(USA)%20(v1.03).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Mega Man: Powered Up",
+"categories": ["platformer", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Mega%20Man%20-%20Powered%20Up%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Crush",
+"categories": ["platformer", "arcade"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Crush.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Prinny: Can I Really Be the Hero?",
+"categories": ["platformer", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Prinny%20-%20Can%20I%20Really%20Be%20the%20Hero%20(Europe)%20(En,Fr).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Prinny 2: Dawn of Operation Panties, Dood!",
+"categories": ["platformer", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Prinny%202%20-%20Dawn%20of%20Operation%20Panties,%20Dood!%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "The Simpsons Game",
+"categories": ["platformer", "adventure"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/The-Simpsons-Game.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "SpongeBob SquarePants: The Yellow Avenger",
+"categories": ["platformer", "adventure"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Spongebob-Squarepants-The-Yellow-Avenger.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "SOCOM: U.S. Navy SEALs Fireteam Bravo",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/SOCOM%20-%20U.S.%20Navy%20SEALs%20-%20Fireteam%20Bravo%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "SOCOM: U.S. Navy SEALs Fireteam Bravo 2",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/SOCOM%20-%20U.S.%20Navy%20SEALs%20-%20Fireteam%20Bravo%202%20(Europe)%20(En,Fr,De,Es,It)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Resistance: Retribution",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Resistance%20-%20Retribution%20(Asia)%20(En,Ja,Fr,Es).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Star Wars Battlefront: Renegade Squadron",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Star Wars Battlefront: Elite Squadron",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tom Clancy's Ghost Recon: Predator",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tom%20Clancy's%20Ghost%20Recon%20-%20Predator%20(USA)%20(En,Fr,Es).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tom Clancy's Rainbow Six: Vegas",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tom%20Clancy's%20Rainbow%20Six%20-%20Vegas%20(USA)%20(En,Fr,Es)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Brothers in Arms: D-Day",
+"categories": ["shooter", "action"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Brothers-in-Arms-D-Day.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Coded Arms",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Coded%20Arms%20-%20Contagion%20(Japan)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Coded Arms: Contagion",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Coded%20Arms%20-%20Contagion%20(Japan)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Star Wars Battlefront II",
+"categories": ["shooter", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Star%20Wars%20Battlefront%20-%20Elite%20Squadron%20(USA)%20(En,Fr,Es).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Lumines II",
+"categories": ["arcade", "classics"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Lumines%20(USA)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Echochrome",
+"categories": ["arcade"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Echochrome%20(Europe,%20Australia)%20(En,Fr,De,Es,It,Nl,Pt,Ru).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Every Extend Extra",
+"categories": ["arcade"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Every%20Extend%20Extra%20(Japan)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Exit",
+"categories": ["arcade", "platformer"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Exit%20(Europe)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pinball Fantasies",
+"categories": ["arcade", "classics"],
+"cover": "https://romsfun.com/wp-content/uploads/2023/06/Pinball-Fantasies.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tetris",
+"categories": ["arcade"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Tetris.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Virtua Tennis: World Tour",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Virtua%20Tennis%20-%20World%20Tour%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Virtua Tennis 3",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Virtua%20Tennis%203%20(USA)%20(En,Ja,Fr,De,Es,It)%20(v1.02).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "FIFA Soccer 09",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/FIFA%2009%20-%20World%20Class%20Soccer%20(Japan).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "FIFA Soccer 10",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/FIFA%2010%20-%20World%20Class%20Soccer%20(Japan)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pro Evolution Soccer 2008",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2008-psp-poster.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pro Evolution Soccer 2006",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-6-psp-poster.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Winning Eleven: Pro Evolution Soccer 2007",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Winning%20Eleven%20-%20Pro%20Evolution%20Soccer%202007%20(USA)%20(En,Es)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Winning Eleven: Pro Evolution Soccer 2009",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2009-psp-poster.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pro Evolution Soccer 2011",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2019/08/Pro-Evolution-Soccer-2011-psp-poster.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pro Evolution Soccer 2013",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Pro%20Evolution%20Soccer%202013%20(Europe)%20(Fr,De).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Pro Evolution Soccer 2014",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/PES-2014-Pro-Evolution-Soccer.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Hot Shots Golf: Open Tee",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Golf%20-%20Open%20Tee%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Hot Shots Golf: Open Tee 2",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Golf%20-%20Open%20Tee%202%20(USA)%20(v0.01)%20(Beta).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Hot Shots Tennis: Get a Grip",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hot%20Shots%20Tennis%20-%20Get%20a%20Grip%20(USA)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "MLB 06: The Show",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "MLB 08: The Show",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "MLB 10: The Show",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/MLB-06-The-Show.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "SSX On Tour",
+"categories": ["sport"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/SSX-on-Tour-3.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tony Hawk's Underground 2 Remix",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tony%20Hawk's%20Underground%202%20Remix%20(France)%20(v1.03).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Tiger Woods PGA Tour 06",
+"categories": ["sport"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%20(Japan)%20(v1.03).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Silent Hill: Origins",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Silent%20Hill%20-%20Origins%20(USA)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Silent Hill: Shattered Memories",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Silent%20Hill%20-%20Shattered%20Memories%20(USA).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Corpse Party",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20Blood%20Covered%20-%20Repeated%20Fear%20(Japan)%20(v1.03).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Corpse Party: Book of Shadows",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20Book%20of%20Shadows%20(Japan).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Corpse Party: The Anthology - Sachiko's Game of Love Hysteric Birthday 2U",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Corpse%20Party%20-%20The%20Anthology%20-%20Sachiko%20no%20Renai%20Yuugi%20-%20Hysteric%20Birthday%202U%20(Japan)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Obscure: The Aftermath",
+"categories": ["horror", "adventure"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Obscure-The-Aftermath.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Dead Head Fred",
+"categories": ["horror", "adventure", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Dead%20Head%20Fred%20(Europe)%20(En,Fr,De,Es,It).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "The 3rd Birthday",
+"categories": ["horror", "action"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/The-3rd-Birthday.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Infected",
+"categories": ["horror", "action"],
+"cover": "https://romsfun.com/wp-content/uploads/2026/10/Infected.png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Hysteria Project",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Hysteria%20Project%20(Europe).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Hysteria Project 2",
+"categories": ["horror", "adventure"],
+"cover": "https://romsfun.com/wp-content/uploads/2023/06/Hysteria-Project-2.jpg",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Undead Knights",
+"categories": ["horror", "action"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Undead%20Knights%20(Japan)%20(v1.01).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Yarudora Portable: Blood The Last Vampire",
+"categories": ["horror", "adventure"],
+"cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/Yarudora%20Portable%20-%20Blood%20the%20Last%20Vampire%20(Asia).png",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Dracula: Undead Awakening",
+"categories": ["horror", "arcade"],
+"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKZWYfI6TW8EQAavhd_UDJ642qm9Oo8CJWa4Q4vWprg&s=10",
+"size": "ISO",
+"download": "github.com"
+},
+{
+"title": "Zombie Tycoon",
+"categories": ["horror", "arcade"],
+"cover": "https://romsfun.com/wp-content/uploads/2023/06/Zombie-Tycoon.jpg",
+"size": "ISO",
+"download": "github.com"
+}
 ]
 }
