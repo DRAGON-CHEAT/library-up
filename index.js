@@ -29,7 +29,7 @@ export default {
 
         const repo = env.GITHUB_REPO || "DRAGON-CHEAT/library-up";
         const branch = env.GITHUB_BRANCH || "main";
-        const apiUrl = `https://github.com{repo}/contents/accounts.json?ref=${branch}`;
+        const apiUrl = `https://api.github.com/repos/${repo}/contents/library/accounts.json?ref=${branch}`;
 
         const ghRes = await fetch(apiUrl, {
           headers: {
@@ -79,7 +79,7 @@ export default {
 
         if (needSave) {
           const updatedBase64 = btoa(unescape(encodeURIComponent(JSON.stringify(accounts, null, 2))));
-          const putRes = await fetch(`https://github.com{repo}/contents/accounts.json`, {
+          const putRes = await fetch(`https://api.github.com/repos/${repo}/contents/library/accounts.json`, {
             method: "PUT",
             headers: {
               "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
@@ -117,7 +117,7 @@ export default {
           }
         }
 
-        const secret = env.SIGN_SECRET || "DRCH_M33_SECRET_2026";
+        const secret = env.SIGN_SECRET || "DRCH_PSP_SECRET_2027";
         const signature = await signData(`${device_key}:${state}:${retExpires}:${nonce}:${secret}`);
 
         return jsonResponse({
